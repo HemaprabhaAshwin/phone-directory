@@ -4,6 +4,8 @@ import Header from "./Header";
 import './App.css';
 
 class App extends Component {
+  
+
   render() {
     let subscribers = [
       {

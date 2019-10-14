@@ -13,11 +13,6 @@
     outline: none;
 }
 
-.add-btn {
-    background: #7ab97a;
-    color: #fff;
-}
-
 .grid-container {
     display: grid;
     grid-template-columns: 40% 30% auto;
